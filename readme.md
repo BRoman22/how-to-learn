@@ -9,6 +9,3 @@
   * Анимация
 
 result https://broman22.github.io/how-to-learn/
-
-
-privet
